@@ -44,8 +44,6 @@ Sunset Pharmacie of Lyonesee
 </th>
 <td>
 </td>
-<td>
-</td>
 </tr>
 
 <tr>
@@ -55,8 +53,6 @@ Sunset Pharmacie of Lyonesee
 <td>
 Patient: <span id="patientdisplay">Arthur, King of the Britons</span>
 </td>
-<td>
-</td>
 </tr>
 
 <tr>
@@ -65,8 +61,6 @@ Patient: <span id="patientdisplay">Arthur, King of the Britons</span>
 </th>
 <td>
 Directions: <span id="prescriptiondisplay">Fenny Snake, 10mg fillet. Swallow whole, drink plenty of beer.</span>
-</td>
-<td>
 </td>
 </tr>
 
