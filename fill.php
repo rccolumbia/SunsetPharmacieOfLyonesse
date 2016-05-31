@@ -10,10 +10,6 @@
 <script type="text/javascript" src="catalog.js"></script>
 <h1>Prescription data entry form:</h1>
 <p>
-The cause yknowe, and of his harm the roote,<br/>
-Anon now yaf the sike man his boote!<br/>
-Ful redy have we his apothecaries<br/>
-To sende hym drogges and his letuaries!<br/>
 </p>
 <form method="post" action="label.php" onsubmit="return Validate()">
 <p>

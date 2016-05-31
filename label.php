@@ -56,7 +56,6 @@ Sunset Pharmacie of Lyonesee
 Patient: <span id="patientdisplay">Arthur, King of the Britons</span>
 </td>
 <td>
-Warning: Do not throw physic to the dogs.
 </td>
 </tr>
 

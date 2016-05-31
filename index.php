@@ -12,11 +12,8 @@
 <table>
 <tr>
 <td>
-<img src="https://s-media-cache-ak0.pinimg.com/236x/3e/fd/57/3efd575638c83daf0d4d05732850a935.jpg" alt="Morgan le Fay"/>
-</td>
-<td>
 <p>
-Welcome, traveler!
+Pharmacy Simulator
 </p>
 </td>
 </tr>
@@ -24,7 +21,7 @@ Welcome, traveler!
 
 
 <h1>Welcome to the Sunset Pharmacie of Lyonesse</h1>
-<p>"Of old, upheaven from the abyss by fire, to sink into the abyss again."</p>
+<p></p>
 
 
 <h2>Main menu:</h2>
