@@ -3,7 +3,7 @@
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"> 
 <head>
-<title>Sunset Pharmacie of Lyonesse</title>
+<title>PharmacySimulator</title>
 <link rel="stylesheet" type="text/css" href="stylespl.css"/>
 </head>
 
@@ -20,7 +20,7 @@ Pharmacy Simulator
 </table>
 
 
-<h1>Welcome to the Sunset Pharmacie of Lyonesse</h1>
+<h1>Welcome to the Pharmacy Simulator</h1>
 <p></p>
 
 

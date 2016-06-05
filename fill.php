@@ -42,7 +42,18 @@ Patient's name:
 <input type="textbox" name="patientname" id="patientname" size="40" style=""/>
 </p>
 <p>
-Prescription text:
+Drug name:
+<select name="drug">
+  <option value=""></option>
+  <option value="OldDrug">OldDrug</option>
+  <option value="NewDrug">NewDrug</option>
+  <option value="EffectiveDrug">EffectiveDrug</option>
+  <option value="HighlyControlledDrug">HighlyControlledDrug</option>
+  <option value="SafeDrug">SafeDrug</option>
+</select>
+</p>
+<p>
+Dosing instructions:
 <input type="textbox" name="prescription" id="prescription" size="120" style=""/>
 <input type="submit" value="Fill"/>
 </p>
